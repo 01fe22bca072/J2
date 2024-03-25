@@ -15,10 +15,9 @@ class Calculator {
         
         return (num1 / num2);
     }
-}
 
 
- class Test {
+
     public static void main(String[] args) {
         ExtendedCalculator calculator = new ExtendedCalculator();
 
